@@ -20,11 +20,11 @@
 
 <!-- Anggota Tim -->
 ## Anggota Tim
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Janie Doe   |
+| NPM           | Name             |
+| ------------- |------------------|
+| 140810210007  | Felicia Natania  |
+| 140810210005  | Aliya Rahmania   |
+| 140810210017  | Adinda Salsabila |
 
 <!-- Latar Belakang -->
 ## Latar Belakang
