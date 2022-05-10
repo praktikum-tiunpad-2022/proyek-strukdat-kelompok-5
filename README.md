@@ -56,7 +56,6 @@ Program List Film/Series ini merupakan program yang menyediakan fitur untuk mena
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
 Berikut beberapa gambar yang menunjukkan rancangan antarmuka (interface) dari program yang ingin dibuat.
-![](images/interface-.jpg)
 ![](images/interface-1.jpg)
 ![](images/interface-2.jpg)
 ![](images/interface-3.jpg)
