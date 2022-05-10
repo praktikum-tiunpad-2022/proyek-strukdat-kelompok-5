@@ -34,6 +34,7 @@ Serial ataupun film merupakan kumpulan gambar bergerak yang menunjukan rangkaian
 <!-- Tujuan dan Manfaat -->
 ## Tujuan dan Manfaat
 Tujuan dibuatnya program “List Film/Series” ini adalah untuk memenuhi penilaian akhir (UAS) Praktikum Struktur Data dalam bentuk project yang dikerjakan secara berkelompok.
+
 Manfaat program “List Film/Series” adalah sebagai berikut :
  - Dapat melakukan insert, delete, menampilkan, dan update judul serial/film juga tahun terbitnya.
  - Mudah digunakan (user friendly)
