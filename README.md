@@ -56,29 +56,30 @@ Program List Film/Series ini merupakan program yang menyediakan fitur untuk mena
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
 Berikut beberapa gambar yang menunjukkan rancangan antarmuka (interface) dari program yang ingin dibuat.
-Pilihan 1 :
-![](images/interface-1.jpg)
-
-Pilihan 2 :
-![](images/interface-2.jpg)
-
-Pilihan 3 :
-![](images/interface-3.jpg)
-
-Pilihan 4 :
-![](images/interface-4.jpg)
-
-Pilihan 5 :
-![](images/interface-5.jpg)
-
-Pilihan 6 :
-![](images/interface-6.jpg)
-
-Pilihan 7:
-![](images/interface-7.jpg)
-
-Pilihan 8 : 
-![](images/interface-8.jpg)
+![]Pilihan 1 :
+(images/interface-1.jpg)
+![]
+![]Pilihan 2 :
+(images/interface-2.jpg)
+![]
+![]Pilihan 3 :
+(images/interface-3.jpg)
+![]
+![]Pilihan 4 :
+(images/interface-4.jpg)
+![]
+![]Pilihan 5 :
+(images/interface-5.jpg)
+![]
+![]Pilihan 6 :
+(images/interface-6.jpg)
+![]
+![]Pilihan 7:
+(images/interface-7.jpg)
+![]
+![]Pilihan 8 : 
+(images/interface-8.jpg)
+![]
 
 <!-- Rencana Pengerjaan Proyek -->
 ## Rencana Pengerjaan Proyek
