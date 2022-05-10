@@ -29,12 +29,14 @@
 <!-- Latar Belakang -->
 ## Latar Belakang
 
-TO;DO
+Serial ataupun film merupakan kumpulan gambar bergerak yang menunjukan rangkaian cerita, media komunikasi yang dapat dilihat dan dipertontonkan serta memiliki fungsi untuk menyampaikan sebuah pesan kepada khalayak umum. Seiring dengan perkembangan zaman, teknologi pun kian berkembang pesat. Salah satu bidang kehidupan manusia yang memerlukan pemanfaatan teknologi ialah bidang hiburan seperti menonton film/serial karena sekarang masyarakat dapat mengaksesnya dengan mudah melalui platform streaming legal berbasis langganan yang memungkinkan pengguna untuk menonton serial/film tanpa iklan di perangkat yang terhubung ke Internet. Ditambah lagi, selama masa pandemi dengan adanya himbauan dari pemerintah untuk selalu beraktivitas dari rumah, tingkat penayangan serial/film naik drastis dan orang-orang mengumpulkan banyak judul serial/film sehingga dibutuhkan tempat untuk membuat daftar judul-judul serial/film yang telah ditemukan agar lebih terorganisir dan tidak lupa. Karena hal tersebut, kami termotivasi untuk membuat program sederhana yang dapat memudahkan orang-orang untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film pada daftar tersebut. 
 
 <!-- Tujuan dan Manfaat -->
 ## Tujuan dan Manfaat
-
-TO;DO
+Tujuan dibuatnya program “List Serial/Film” ini adalah untuk memenuhi penilaian akhir (UAS) Praktikum Struktur Data dalam bentuk project yang dikerjakan secara berkelompok.
+Manfaat program “List Serial/Film” adalah sebagai berikut :
+ - Dapat melakukan insert, delete, menampilkan, dan update judul serial/film juga tahun terbitnya.
+ - Mudah digunakan (user friendly)
 
 <!-- Penjelasan Aplikasi -->
 ## Penjelasan Aplikasi
