@@ -41,7 +41,7 @@ Manfaat program “List Film/Series” adalah sebagai berikut :
 
 <!-- Penjelasan Aplikasi -->
 ## Penjelasan Aplikasi
-Program List Serial/Film ini merupakan program yang menyediakan fitur untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film yang telah dikumpulkan dan akan ditonton. Dalam program ini, fitur-fitur tersebut akan ditampilkan melalui menu program sehingga dapat dipilih oleh pengguna.
+Program List Film/Series ini merupakan program yang menyediakan fitur untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film yang telah dikumpulkan dan akan ditonton. Dalam program ini, fitur-fitur tersebut akan ditampilkan melalui menu program sehingga dapat dipilih oleh pengguna.
 
     Menu:
       -Tambahkan judul film/series
