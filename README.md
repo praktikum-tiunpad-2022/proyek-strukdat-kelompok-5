@@ -40,8 +40,17 @@ Manfaat program “List Serial/Film” adalah sebagai berikut :
 
 <!-- Penjelasan Aplikasi -->
 ## Penjelasan Aplikasi
+Program List Serial/Film ini merupakan program yang menyediakan fitur untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film yang telah dikumpulkan dan akan ditonton. Dalam program ini, fitur-fitur tersebut akan ditampilkan melalui menu program sehingga dapat dipilih oleh pengguna.
 
-TO;DO
+    Menu:
+      -Tambahkan judul film/series
+      -Tampilkan info film/series
+      -Update info film/series
+      -Tampilkan seluruh daftar film/series
+      -Tampilkan daftar film/series yang ingin ditonton 
+      -Tampilkan daftar film/series yang telah selesai ditonton
+      -Hapus judul film/series
+      -Keluar
 
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
@@ -50,8 +59,8 @@ TO;DO
 
 <!-- Rencana Pengerjaan Proyek -->
 ## Rencana Pengerjaan Proyek
+Dalam mengerjakan Project UAS Struktur Data ini, kami mengerjakan secara virtual dengan menggunakan beberapa aplikasi. Kami menggunakan Line dan Google Meet untuk berdiskusi dan menggunakan repository github yang telah disediakan untuk UAS sebagai repository akhir. Kemudian, untuk proses pembuatan program, kami menggunakan bahasa C++ dan memanfaatkan extension Live Share pada Microsoft Visual Studio Code. Untuk pengerjaan kode, kami melakukannya secara bersama-sama menggunakan fitur Live Share sambil melakukan diskusi melalui Google Meet.
 
-TO;DO
 
 <!-- Lisensi -->
 ## Lisensi
