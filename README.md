@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">
-    Judul Proyek
+    PROGRAM LIST FILM/SERIES
   </h2>
 </p>
 
