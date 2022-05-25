@@ -47,7 +47,7 @@ Program List Film/Series ini merupakan program yang menyediakan fitur untuk mena
       -Tambahkan judul film/series
       -Tampilkan info film/series
       -Update info film/series
-      -Tampilkan seluruh daftar film/series
+      -Tampilkan daftar film/series (semua, berdasarkan status, berdasarkan kategori)
       -Hapus judul film/series
       -Keluar
 
