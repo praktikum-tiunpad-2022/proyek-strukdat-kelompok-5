@@ -11,15 +11,15 @@ void traversal(Queue& Q, pointer& pBantu){
     }
     else{                       //Queue ada isi
         pBantu = Q.Head;
-        std::cout << "---------------------------------------------------------------------------------------------------------------" << std::endl;
-        std::cout << std::setw(5) << "Kode" << std::setw(30)<< "Judul"<< std::setw(15) << "Kategori" << std::setw(15) << "Tahun Rilis" << std::setw(15) << "Negara" << std::setw(30) << "Status" << std::endl;
-        std::cout << "---------------------------------------------------------------------------------------------------------------" << std::endl;
+        std::cout << "------------------------------------------------------------------------------------------------------------------------" << std::endl;
+        std::cout << std::setw(5) << "Kode" << std::setw(20)<< "Judul"<< std::setw(25) << "Kategori" << std::setw(20) << "Tahun Rilis" << std::setw(17) << "Negara" << std::setw(22) << "Status" << std::endl;
+        std::cout << "------------------------------------------------------------------------------------------------------------------------" << std::endl;
         do{
-            std::cout << std::setw(5) << pBantu->info.kode << std::setw(30) << pBantu->info.judul << std::setw(15) << kategoriData(pBantu->info.kategori) << std::setw(15) << pBantu->info.tahun << std::setw(15) << pBantu->info.negara << std::setw(30) << statusData(pBantu->info.status) << std::setw(10) << std::endl;
+            std::cout << std::setw(3) << pBantu->info.kode << std::setw(29) << pBantu->info.judul << std::setw(20) << kategoriData(pBantu->info.kategori) << std::setw(14) << pBantu->info.tahun << std::setw(22) << pBantu->info.negara << std::setw(30) << statusData(pBantu->info.status) << std::setw(10) << std::endl;
             pBantu = pBantu->next;
         }
         while (pBantu != nullptr);
-        std::cout << "---------------------------------------------------------------------------------------------------------------" << std::endl;
+        std::cout << "------------------------------------------------------------------------------------------------------------------------" << std::endl;
     }
     std::cout << std::endl;
 }
