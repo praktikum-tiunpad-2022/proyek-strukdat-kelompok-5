@@ -48,8 +48,6 @@ Program List Film/Series ini merupakan program yang menyediakan fitur untuk mena
       -Tampilkan info film/series
       -Update info film/series
       -Tampilkan seluruh daftar film/series
-      -Tampilkan daftar film/series yang ingin ditonton 
-      -Tampilkan daftar film/series yang telah selesai ditonton
       -Hapus judul film/series
       -Keluar
 
