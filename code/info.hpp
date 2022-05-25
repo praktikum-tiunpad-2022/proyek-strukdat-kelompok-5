@@ -20,5 +20,4 @@ void infoData(pointer &pCari){
     std::cout << "  Status      : ";
     std::cout << "  " << statusData(pCari->info.status) << std::endl;
     std::cout << " --------------------------------------" << std::endl;
-    std::cout << " ------------------------------------- " << std::endl;
 }

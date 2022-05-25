@@ -3,6 +3,7 @@
 #include <iostream>     //std::cout
 #include <string>       //std::string
 #include <iomanip>      //std::setw
+#include <cctype>       //std::toupper
 
 //struct
 struct film{

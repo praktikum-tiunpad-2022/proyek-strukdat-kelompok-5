@@ -8,6 +8,7 @@
 #include "replace.hpp"
 #include "traversal.hpp"
 #include "info.hpp"
+#include "listdata.hpp"
 
 int pilihMenu(int pilihan){
     Queue daftarfilm;
@@ -64,7 +65,7 @@ int pilihMenu(int pilihan){
                 std::cout << "  Kode Film/Series:                    " << std::endl;
                 std::cout << "  >> ";
                 std::cin >> code;
-                search(daftarfilm, code, ketemu, pCari);
+                search(daftarfilm, code, character, ketemu, pCari);
                 if(ketemu){
                     infoData(pCari);
                 }
@@ -78,7 +79,7 @@ int pilihMenu(int pilihan){
                 std::cout << "  Kode Film/Series:                    " << std::endl;
                 std::cout << "  >> ";
                 std::cin >> code;
-                search(daftarfilm, code, ketemu, pCari);
+                search(daftarfilm, code, character, ketemu, pCari);
                 if(ketemu){
                     std::cout << " ===================================== " << std::endl;            
                     std::cout << "|           Kode Ditemukan!           |" << std::endl;
@@ -99,7 +100,16 @@ int pilihMenu(int pilihan){
                 }
                 break;
             case 4: //traversal
-                traversal(daftarfilm, pBantu);
+                std::cout << " ===================================== " << std::endl;            
+                std::cout << "|     Tampilkan List Film/Series      |" << std::endl;
+                std::cout << " ===================================== " << std::endl;
+                std::cout << "| 1. Semua                            |" << std::endl;
+                std::cout << "| 2. Berdasarkan Status               |" << std::endl;
+                std::cout << "| 3. Berdasarkan Kategori             |" << std::endl;
+                std::cout << " ------------------------------------- " << std::endl;
+                std::cout << "  Masukan Pilihan: ";
+                std::cin >> kategori;
+                listData(daftarfilm, kategori);
                 system("pause");
                 break;
             case 5:
@@ -107,7 +117,7 @@ int pilihMenu(int pilihan){
                 std::cout << "  Kode Film/Series:                    " << std::endl;
                 std::cout << "  ";
                 std::cin >> code;
-                search(daftarfilm, code, ketemu, pCari);
+                search(daftarfilm, code, character, ketemu, pCari);
                 if(ketemu){
                     std::cout << "Kode ditemukan" << std::endl;
                     deleteSearch(daftarfilm, pCari, pHapus);
