@@ -1,6 +1,5 @@
 .vscode/*
 !.vscode/tasks.json
 !.vscode/launch.json
-presentasi
 presentasi.exe
-!code/main.exe
+code/main.exe
