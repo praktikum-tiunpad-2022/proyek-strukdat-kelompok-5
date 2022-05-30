@@ -3,4 +3,4 @@
 !.vscode/launch.json
 presentasi
 presentasi.exe
-code/code.exe
+!code/code.exe
