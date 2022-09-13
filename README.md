@@ -1,7 +1,10 @@
 <p align="center">
   <h2 align="center">
-    PROGRAM LIST FILM/SERIES
+    Website MyStreamingList
   </h2>
+  <h4 align="center">
+    Website untuk listing, tracking, dan organizing daftar tontonan seperti film, acara TV, series, maupun drama
+  </h4>
 </p>
 
 <!-- Daftar Isi -->
@@ -9,78 +12,50 @@
   <summary><h2 style="display: inline-block">Daftar Isi</h2></summary>
   <ol>
     <li><a href="#anggota-tim">Anggota Tim</a></li>
-    <li><a href="#latar-belakang">Latar Belakang</a></li>
-    <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
-    <li><a href="#penjelasan-aplikasi">Penjelasan Aplikasi</a></li>
-    <li><a href="#gambar-rancangan-antarmuka">Gambar Rancangan Antarmuka</a></li>
-    <li><a href="#rencana-pengerjaan-proyek">Rencana Pengerjaan Proyek</a></li>
+    <li><a href="#fungsi">Fungsi</a></li>
+    <li><a href="#tujuan">Tujuan</a></li>
+    <li><a href="#target-pengguna">Target Pengguna</a></li>
+    <li><a href="#mockup-kasar-sederhana">Mockup Kasar Sederhana</a></li>
+    <li><a href="#skema-database">Skema Database</a></li>
     <li><a href="#lisensi">Lisensi</a></li>
   </ol>
 </details>
 
 <!-- Anggota Tim -->
 ## Anggota Tim
-| NPM           | Name             |
+| NPM           | Nama             |
 | ------------- |------------------|
 | 140810210007  | Felicia Natania  |
 | 140810210005  | Aliya Rahmania   |
 | 140810210017  | Adinda Salsabila |
 
-<!-- Latar Belakang -->
-## Latar Belakang
+<!-- Fungsi -->
+## Fungsi
 
-Serial ataupun film merupakan kumpulan gambar bergerak yang menunjukan rangkaian cerita, media komunikasi yang dapat dilihat dan dipertontonkan serta memiliki fungsi untuk menyampaikan sebuah pesan kepada khalayak umum. Seiring dengan perkembangan zaman, teknologi pun kian berkembang pesat. Salah satu bidang kehidupan manusia yang memerlukan pemanfaatan teknologi ialah bidang hiburan seperti menonton film/serial karena sekarang masyarakat dapat mengaksesnya dengan mudah melalui platform streaming legal berbasis langganan yang memungkinkan pengguna untuk menonton serial/film tanpa iklan di perangkat yang terhubung ke Internet. Ditambah lagi, selama masa pandemi dengan adanya himbauan dari pemerintah untuk selalu beraktivitas dari rumah, tingkat penayangan serial/film naik drastis dan orang-orang mengumpulkan banyak judul serial/film sehingga dibutuhkan tempat untuk membuat daftar judul-judul serial/film yang telah ditemukan agar lebih terorganisir dan tidak lupa. Karena hal tersebut, kami termotivasi untuk membuat program sederhana yang dapat memudahkan orang-orang untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film pada daftar tersebut. 
 
-<!-- Tujuan dan Manfaat -->
-## Tujuan dan Manfaat
-Tujuan dibuatnya program “List Film/Series” ini adalah untuk memenuhi penilaian akhir (UAS) Praktikum Struktur Data dalam bentuk project yang dikerjakan secara berkelompok.
+<!-- Tujuan -->
+## Tujuan
 
-Manfaat program “List Film/Series” adalah sebagai berikut :
- - Dapat melakukan insert, delete, menampilkan, dan update judul serial/film juga tahun terbitnya.
- - Mudah digunakan (user friendly)
 
-<!-- Penjelasan Aplikasi -->
-## Penjelasan Aplikasi
-Program List Film/Series ini merupakan program yang menyediakan fitur untuk menambah, mencari, menampilkan, mengurutkan, dan juga mengedit judul serial/film yang telah dikumpulkan dan akan ditonton. Dalam program ini, fitur-fitur tersebut akan ditampilkan melalui menu program sehingga dapat dipilih oleh pengguna.
+<!-- Target Pengguna -->
+## Target Pengguna
+Target pengguna dari Website MyStreamingList ialah semua orang yang memiliki hobi menonton khusunya bagi pecinta series/film agar dapat mengorganisir urutan tontonannya sehingga lebih mudah mengetahui tontonan yang belum ditonton.
 
-    Menu:
-      -Tambahkan judul film/series
-      -Tampilkan info film/series
-      -Update info film/series
-      -Tampilkan daftar film/series (semua, berdasarkan status, berdasarkan kategori)
-      -Hapus judul film/series
-      -Keluar
-
-<!-- Gambar Rancangan Antarmuka -->
-## Gambar Rancangan Antarmuka
+<!-- Mockup Kasar Sederhana -->
+## Mockup Kasar Sederhana
 Berikut beberapa gambar yang menunjukkan rancangan antarmuka (interface) dari program yang ingin dibuat.
-![](images/interface-1.jpg)
+![](images/homepage.png)
 
 
-![](images/interface-2.jpg)
+![](images/login.png)
 
 
-![](images/interface-3.jpg)
+![](images/signup.png)
 
 
-![](images/interface-4.jpg)
+<!-- Skema Database -->
+## Skema Database
 
-
-![](images/interface-5.jpg)
-
-
-![](images/interface-6.jpg)
-
-
-![](images/interface-7.jpg)
-
-
-![](images/interface-8.jpg)
-
-
-<!-- Rencana Pengerjaan Proyek -->
-## Rencana Pengerjaan Proyek
-Dalam mengerjakan Project UAS Struktur Data ini, kami mengerjakan secara virtual dengan menggunakan beberapa aplikasi. Kami menggunakan Line dan Google Meet untuk berdiskusi dan menggunakan repository github yang telah disediakan untuk UAS sebagai repository akhir. Kemudian, untuk proses pembuatan program, kami menggunakan bahasa C++ dan memanfaatkan extension Live Share pada Microsoft Visual Studio Code. Untuk pengerjaan kode, kami melakukannya secara bersama-sama menggunakan fitur Live Share sambil melakukan diskusi melalui Google Meet.
 
 
 <!-- Lisensi -->
